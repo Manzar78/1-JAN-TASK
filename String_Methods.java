@@ -34,6 +34,30 @@ public class String_Methods {
         System.out.println(input.codePointAt(8));
         //sir mukhe  samj me na aayo
 
+        System.out.println(c.isEmpty());
+        //sir hee check kando ta empty aahe ya na ......
+
+        System.out.println(c.concat(c));
+        //sir he string khe 2 dafa print kare dendo... mtlb concat
+
+        String S1 = "Clock";
+        System.out.println(S1.intern());
+        //hee asan khe same value print kre dendo....
+
+        String S9 = "Manzar";
+        System.out.println(S9.indexOf('a'));
+        //sir hee asan khe char jo index budhyendo...
+
+        System.out.println(c.contains(c));
+        //Question ?
+
+
+
+
+
+
+
+
 
 
 
